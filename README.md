@@ -23,6 +23,6 @@ c. Add trigger
 
 d. Copy and paste code from Blob_function.py
 
-All Set with your Static Website.
+Now You Are All Set with your Static Website.
 
-<img src="https://github.com/bharatnautiyal/AWS_Lambda_Simple_code/assets/94897374/ff81e235-5c06-4fe8-b9e3-a7de2987b617](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMOti0HKWtrddy0jk1d7ewNUeV2QvZKyPPw&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMOti0HKWtrddy0jk1d7ewNUeV2QvZKyPPw&usqp=CAU" alt="image" width="300">
+<img src="https://github.com/bharatnautiyal/AWS_Lambda_Simple_code/assets/94897374/ff81e235-5c06-4fe8-b9e3-a7de2987b617](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMOti0HKWtrddy0jk1d7ewNUeV2QvZKyPPw&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMOti0HKWtrddy0jk1d7ewNUeV2QvZKyPPw&usqp=CAU" alt="image" width="500">
