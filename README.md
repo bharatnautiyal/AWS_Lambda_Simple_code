@@ -25,4 +25,4 @@ d. Copy and paste code from Blob_function.py
 
 All Set with your Static Website.
 
-<img src="![image](https://github.com/bharatnautiyal/AWS_Lambda_Simple_code/assets/94897374/ff81e235-5c06-4fe8-b9e3-a7de2987b617)" alt="image" width="300">
+<img src="https://github.com/bharatnautiyal/AWS_Lambda_Simple_code/assets/94897374/ff81e235-5c06-4fe8-b9e3-a7de2987b617" alt="image" width="300">
