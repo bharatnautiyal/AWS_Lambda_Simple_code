@@ -5,7 +5,7 @@ AWS_Lambda_Simple_code  ----> Simple HTML
 1st step: create AWS Lambda function Called home
 
 
-a. Author from scratch
+a. Sellect- Author from scratch
 
 b. Runtime select python3.7 rest default config
 
