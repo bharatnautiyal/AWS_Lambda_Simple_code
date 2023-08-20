@@ -29,7 +29,9 @@ d. copy paste code from Blob_function.py
 
 
 All Set with your Static Website.
-![image](https://github.com/bharatnautiyal/AWS_Lambda_Simple_code/assets/94897374/89952611-cafb-4f98-a068-42b35a31dc9a)
+
+![image](https://github.com/bharatnautiyal/AWS_Lambda_Simple_code/assets/94897374/92c68332-99dd-438b-afab-86aab43734cf)
+
 
 
 
