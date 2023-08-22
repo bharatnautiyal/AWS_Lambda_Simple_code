@@ -1,5 +1,5 @@
 # AWS_Lambda_Simple_code
-AWS_Lambda_Simple_code ----> Simple HTML
+AWS_Lambda_Deploy ----> Simple HTML 
 
 1st step: create AWS Lambda function Called home
 
