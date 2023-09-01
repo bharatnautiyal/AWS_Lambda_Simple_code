@@ -26,3 +26,5 @@ d. Copy and paste code from Blob_function.py
 Now You Are All Set with your Static Website.
 
 <img src="https://github.com/bharatnautiyal/AWS_Lambda_Simple_code/assets/94897374/5b341ea0-d3cc-48b0-9878-4124749d9b8a" alt="image" width="300">
+
+
